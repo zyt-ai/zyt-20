@@ -1,5 +1,11 @@
-.box{
+div{
     width: 100px;
     height: 100px;
+    
+}
+.box1{
     background-color: #fac;
+}
+.box2{
+    background-color: #acf;
 }
